@@ -16,3 +16,5 @@ This repository contains the project that I completed for the Object-Oriented Pr
 ## Project Grade
 The project received the maximum grade of 1.5/1.5. It also received a +1.0 bonus for placing first in the SmartPlayer Tournament that was held at the end of the semester.
 
+---
+For all of my university-related projects you can visit [this repository](https://github.com/Selivanof/UniversityCollection)
